@@ -158,19 +158,6 @@ Never perform security testing against systems without appropriate authorization
 
 ---
 
-## 🚀 Roadmap
-
-* [ ] Complete Web Security labs
-* [ ] Build a personal SOC laboratory
-* [ ] Create Splunk detection labs
-* [ ] Create IBM QRadar detection labs
-* [ ] Expand AWS security laboratories
-* [ ] Practice Active Directory security
-* [ ] Develop automated security workflows
-* [ ] Document CTF challenges
-* [ ] Build end-to-end attack & detection scenarios
-
----
 
 ## 👨‍💻 About
 
