@@ -101,9 +101,9 @@ Documentation may include:
 
 ### Defensive Security
 
-`Splunk` · `IBM QRadar` · `Wireshark` · `Sysmon` · `YARA`
+`Splunk` · `IBM QRadar` · `Wireshark` ·
 
-### Cloud Security
+### AWS Cloud Security
 
 `AWS` · `CloudTrail` · `GuardDuty` · `Amazon Detective` · `IAM` · `Athena`
 
@@ -113,7 +113,7 @@ Documentation may include:
 
 ### Development & Automation
 
-`Python` · `SQL` · `Git` · `Docker` · `n8n`
+`Python` · `SQL` · 
 
 ---
 
