@@ -1,5 +1,5 @@
-Network IDS/IPS Home Lab — Suricata
+FASE 1 — Crear las 3 máquinas virtuales
 
-Designed and deployed a virtualized network security lab using Suricata, Kali Linux and Ubuntu to investigate network-based attacks, develop custom detection rules and implement IPS capabilities using NFQUEUE.
-
-Implemented detection scenarios for network reconnaissance, ICMP anomalies, SSH activity and web-based attacks, validating detections through Suricata EVE JSON logs and Wireshark packet analysis.
+1.1 Ubuntu Suricata
+1.2 Kali
+1.3 Ubuntu víctima
